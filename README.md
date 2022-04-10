@@ -1,8 +1,13 @@
+> # 							*MERN Project*						
+
+### Ecommerce (Clone of Ecommerce site)
+> ####  [   Link ](http://https://ecommerce-uttam-store.herokuapp.com/ "   Link")
+
 Make Sure to Create a config.ev file in backend/config directory and add appropriate variable in order to use the app.
 
 **Essential Variables**
 
-PORT = 
+PORT =  
 DB_URI = 
 STRIPE_API_KEY = 
 STRIPE_SECRET_KEY = 
@@ -17,7 +22,9 @@ SMPT_PORT =
 CLOUDINARY_NAME = 
 CLOUDINARY_API_KEY = 
 CLOUDINARY_API_SECRET = 
-*file each filed with your inof respectivley*
+*file each filed with your info respectivley*
 
 ## Author
-Uttam
+> **Priyanshu Uttam**
+
+

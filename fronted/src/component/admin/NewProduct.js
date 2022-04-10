@@ -86,9 +86,6 @@ const NewProduct = () => {
                 setImages((old)=>[...old,reader.result]);
                }
             }
-
-            
-
             reader.readAsDataURL(file);
         })
     }
