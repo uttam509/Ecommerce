@@ -5,8 +5,27 @@
 
 Make Sure to Create a config.ev file in backend/config directory and add appropriate variable in order to use the app.
 
-**Essential Variables**
 
+
+### Product Overview:
+
+### DOMAIN : WEB DEVELOPMENT LANGUAGES/TECHNOLOGY:
+
+###  Technologies: react js , mongo db , express js 
+
+◄ It is a web application clone of ecommerce site . 
+
+◄ It has functionality for both user and admin.
+
+◄ User can order the product and for payment we are using
+stripe payment gateway.
+
+◄ Admin can also created or delete new product and having
+All information but all users.
+
+◄ I hosted it on herokuapp.
+
+**Essential Variables**
 - PORT =  
 - DB_URI = 
 - STRIPE_API_KEY = 
